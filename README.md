@@ -1,4 +1,4 @@
-# Firefox_Modern
+# Firefox-Modern
 
 ## Short description
 
