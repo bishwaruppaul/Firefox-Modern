@@ -1,14 +1,9 @@
-# Essence
-
-![GitHub](https://img.shields.io/github/license/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/FirefoxCSS?style=flat-square) 
+# Firefox_Modern
 
 ## Short description
 
-Essence is a compact, beautiful, and minimalistic theme for the Firefox web browser. The main goal was to minify a toolbar, so more content would be displayed in the browser.
-
-## Screenshots
-
-![Essence](https://github.com/JarnotMaciej/Essence/assets/92025751/4ec61b5b-52b5-4e89-b0ca-b4de041cb01c)
+![Essence](https://github.com/JarnotMaciej/Essence) is a compact, beautiful, and minimalistic theme for the Firefox web browser. The main goal was to minify a toolbar, so more content would be displayed in the browser.
+This fork is a minimal modification of essence to make the navigation bar and tabs even slimmer.
 
 ## Installation
 
@@ -30,7 +25,7 @@ Once the installation is complete, the Essence theme will be applied automatical
 
 ## Credits
 
-This repository is a fork of [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS), with various modifications, removals, and additions. Some code snippets were also sourced from the [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) repository. The icons used in the theme are taken from Google Material Symbols.
+This repository is a fork of [JarnotMaciej/Essence](https://github.com/JarnotMaciej/Essence), with minimal modifications to make the navigation bar and tabs slimmer.
 
 ## Additional Info
 
