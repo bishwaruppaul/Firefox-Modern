@@ -25,8 +25,8 @@
 
 :root {
     --tab-border-radius: 6px !important; /*  Tab border radius -- Changes the tabs rounding  */ /*  Default: 3px  */
-    --NavbarWidth: 36; /*  Default values: 36 - 43  */
-    --TabsHeight: 30; /*  Minimum: 30  */ /*  Default: 36  */
+    --NavbarWidth: 36; /*  Default values: 36 - 43 */ /* CHANGED BY BP TO MAKE NAVBAR SLIMMER */
+    --TabsHeight: 30; /*  Minimum: 30  */ /*  Default: 36  */ /* CHANGED BY BP TO MAKE TABS SLIMMER */
     --TabsBorder: 8; /*  Doesnt do anything on small layout  */ /*  Default: 8  */
     --NavbarHeightSmall: calc(
         var(--TabsHeight) + var(--TabsBorder)
